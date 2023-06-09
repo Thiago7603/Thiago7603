@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiago7603&label=Profile%20views&color=0e75b6&style=flat" alt="thiago7603" /> </p>
 
-- 🌱 Actualmente estoy aprendiendo **Git, Spring, Hibernate, Testing Whit JUnit**
+- 🌱 Actualmente estoy aprendiendo **Git, Spring, Hibernate, Testing JUnit**
 
 - 💬 Pregúntame Sobre **Database, Java, Python**
 
